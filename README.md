@@ -1,7 +1,11 @@
-## Hi there 👋
-
+## Hi there !!
+## I'm Adriano José
+## Tools and Technology:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<i class="devicon-git-plain colored"></i>
+          
+          
 <!--
-**Adriano-Jose/Adriano-Jose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
